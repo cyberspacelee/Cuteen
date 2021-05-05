@@ -148,7 +148,13 @@ padding-left: 20px;
 
 .toc-item li { margin:0; padding:0; color:black }
 .toc-item li > span { display:block }
-.toc-item li > span { padding-left:0em }
+.toc-item li > span {     
+  padding-left: 0em;
+  font-size: 13px;
+  padding-bottom: 0.5em;
+  padding-top: 0.5em;
+  font-family: consolas; 
+}
 .toc-item li li > span { padding-left:1em }
 .toc-item li li li > span { padding-left:2em }
 .toc-item li li li li > span { padding-left:3em }
