@@ -188,3 +188,8 @@ and updated using the nbextension-configurator
 .tocSkip {
   display: none;
 }
+
+code, kbd, pre, samp {
+    font-family: consolas!important;
+    font-size: 1em!important;
+}
