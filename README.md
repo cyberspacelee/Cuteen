@@ -11,6 +11,6 @@ add in `<head>`
 add in `<head>`
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/xingcanli132/Cuteen/jupyter/toc2.js"></script>
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/xingcanli132/Cuteen/jupyter/main.css">
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/xingcanli132/Cuteen/jupyter/toc2.js"></script>
 ```
