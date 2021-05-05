@@ -154,6 +154,7 @@ padding-left: 20px;
   padding-bottom: 0.5em;
   padding-top: 0.5em;
   font-family: consolas; 
+  font-weight: 600;
 }
 .toc-item li li > span { padding-left:1em }
 .toc-item li li li > span { padding-left:2em }
